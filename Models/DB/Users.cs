@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Backend_DONT_USE.Models.DB
 {
-    [Table("tblAnimals")]
+    [Table("tblUsers")]
     public class Users
     {
         [Key]
@@ -15,6 +15,6 @@ namespace Backend_DONT_USE.Models.DB
         [Required, StringLength(255)]
         public string Name { get; set; }
         [StringLength(1000)]
-        public string Image { get; set; }
+        public string Surename { get; set; }
     }
 }

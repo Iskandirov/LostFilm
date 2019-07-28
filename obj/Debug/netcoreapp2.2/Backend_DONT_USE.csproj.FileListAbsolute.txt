@@ -26,3 +26,17 @@ C:\Users\User\Desktop\Backend\obj\Debug\netcoreapp2.2\Backend_DONT_USE.AssemblyI
 C:\Users\User\Desktop\Backend\obj\Debug\netcoreapp2.2\Backend_DONT_USE.RazorTargetAssemblyInfo.cache
 C:\Users\User\Desktop\Backend\obj\Debug\netcoreapp2.2\Backend_DONT_USE.dll
 C:\Users\User\Desktop\Backend\obj\Debug\netcoreapp2.2\Backend_DONT_USE.pdb
+C:\Users\User\Desktop\LostFilm\Backend\bin\Debug\netcoreapp2.2\Backend_DONT_USE.deps.json
+C:\Users\User\Desktop\LostFilm\Backend\bin\Debug\netcoreapp2.2\Backend_DONT_USE.runtimeconfig.json
+C:\Users\User\Desktop\LostFilm\Backend\bin\Debug\netcoreapp2.2\Backend_DONT_USE.runtimeconfig.dev.json
+C:\Users\User\Desktop\LostFilm\Backend\bin\Debug\netcoreapp2.2\Backend_DONT_USE.dll
+C:\Users\User\Desktop\LostFilm\Backend\bin\Debug\netcoreapp2.2\Backend_DONT_USE.pdb
+C:\Users\User\Desktop\LostFilm\Backend\obj\Debug\netcoreapp2.2\Backend_DONT_USE.csprojAssemblyReference.cache
+C:\Users\User\Desktop\LostFilm\Backend\obj\Debug\netcoreapp2.2\Backend_DONT_USE.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LostFilm\Backend\obj\Debug\netcoreapp2.2\Backend_DONT_USE.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\LostFilm\Backend\obj\Debug\netcoreapp2.2\Backend_DONT_USE.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\LostFilm\Backend\obj\Debug\netcoreapp2.2\Backend_DONT_USE.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LostFilm\Backend\obj\Debug\netcoreapp2.2\Backend_DONT_USE.AssemblyInfo.cs
+C:\Users\User\Desktop\LostFilm\Backend\obj\Debug\netcoreapp2.2\Backend_DONT_USE.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\LostFilm\Backend\obj\Debug\netcoreapp2.2\Backend_DONT_USE.dll
+C:\Users\User\Desktop\LostFilm\Backend\obj\Debug\netcoreapp2.2\Backend_DONT_USE.pdb

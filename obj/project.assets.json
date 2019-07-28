@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Backend\\Backend_DONT_USE.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\LostFilm\\Backend\\Backend_DONT_USE.csproj",
       "projectName": "Backend_DONT_USE",
-      "projectPath": "C:\\Users\\User\\Desktop\\Backend\\Backend_DONT_USE.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\LostFilm\\Backend\\Backend_DONT_USE.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Backend\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\LostFilm\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
